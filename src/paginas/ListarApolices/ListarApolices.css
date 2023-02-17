@@ -1,0 +1,88 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.ListarApolices-lista {
+    background-color:#EEE7E7;
+    width: 80%;
+    margin: 100px auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.ListarApolices-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.ListarApolices-voltar {
+    padding: px;
+    text-align: left;
+    color: #F44336;
+}
+
+.ListarApolices-voltar:hover {
+    color: #BA000D;
+}
+
+.ListarApolices-saudacoes {
+    text-align: right;
+    padding: 10px;
+}
+
+.ListarApolices-sair {
+    color: #F44336;
+}
+
+.ListarApolices-sair:hover {
+    color: #BA000D;
+}
+
+.ListarApolices-ordenacao{
+    padding-left: 90%;
+ }
+
+.ListarApolices-tabela{
+    width: 100%;
+    border: 2px solid #768076;
+    padding: 5px;
+    background-color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.ListarApolices-cabecalho {
+    font-weight: bolder;
+    border: 2px solid #768076;
+    text-align: left;
+    background-color: #768076;
+    color: #FFFFFF;
+}
+
+.ListarApolices-coluna {
+    height: 40px;
+    vertical-align: middle;
+}
+
+.ListarApolices-linha {
+    height: 30px;
+}
+
+.ListarApolices-valor {
+    vertical-align: middle;
+}
+
+.ListarApolices-mensagemRegistro {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.ListarApolices-exibirApolice {
+    color: #F44336;
+}
+
+.ListarApolices-exibirApolice:hover {
+    color: #BA000D;
+}

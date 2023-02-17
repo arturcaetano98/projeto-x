@@ -1,0 +1,34 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.Login-formulario {
+    background-color:#EEE7E7;
+    width: 35%;
+    margin: 100px auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.Login-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.Login-botao {
+    margin: 100px;
+    background-color: #F44336;
+    border-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+.Login-botao:hover {
+    background-color: #BA000D;
+}

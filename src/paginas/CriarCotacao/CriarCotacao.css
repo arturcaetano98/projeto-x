@@ -1,0 +1,51 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.CriarCotacao-formulario {
+    background-color:#EEE7E7;
+    width: 35%;
+    margin: 100px auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.CriarCotacao-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.CriarCotacao-informacaoCotacao {
+    padding-right: 10px;
+    margin: auto 0px;
+    margin-bottom: 10px;
+}
+
+.CriarCotacao-informacaoCotacao > label {
+    font-weight: bolder;
+}
+
+.CriarCotacao-voltar {
+    text-align: left;
+    color: #F44336;
+}
+
+.CriarCotacao-voltar:hover {
+    color: #BA000D;
+}
+
+.CriarCotacao-saudacoes {
+    text-align: right;
+    padding: 10px;
+}
+
+.CriarCotacao-sair {
+    color: #F44336;
+}
+
+.CriarCotacao-sair:hover {
+    color: #BA000D;
+}

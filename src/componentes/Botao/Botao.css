@@ -1,0 +1,23 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.Botao-fundo {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.Botao {
+    background-color: #F44336;
+    border-style: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+.Botao:hover {
+    background-color: #BA000D;
+}

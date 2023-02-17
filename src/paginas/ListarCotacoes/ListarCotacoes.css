@@ -1,0 +1,88 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.ListarCotacoes-lista {
+    background-color:#EEE7E7;
+    width: 80%;
+    margin: 100px auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.ListarCotacoes-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.ListarCotacoes-voltar {
+    padding: px;
+    text-align: left;
+    color: #F44336;
+}
+
+.ListarCotacoes-voltar:hover {
+    color: #BA000D;
+}
+
+.ListarCotacoes-saudacoes {
+    text-align: right;
+    padding: 10px;
+}
+
+.ListarCotacoes-sair {
+    color: #F44336;
+}
+
+.ListarCotacoes-sair:hover {
+    color: #BA000D;
+}
+
+.ListarCotacoes-ordenacao{
+   padding-left: 90%;
+}
+
+.ListarCotacoes-tabela{
+    width: 100%;
+    border: 2px solid #768076;
+    padding: 5px;
+    background-color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.ListarCotacoes-cabecalho {
+    font-weight: bolder;
+    border: 2px solid #768076;
+    text-align: left;
+    background-color: #768076;
+    color: #FFFFFF;
+}
+
+.ListarCotacoes-coluna {
+    height: 40px;
+    vertical-align: middle;
+}
+
+.ListarCotacoes-linha {
+    height: 30px;
+}
+
+.ListarCotacoes-valor {
+    vertical-align: middle;
+}
+
+.ListaCotacoes-mensagemRegistro {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.ListarCotacoes-maisDetalhes {
+    color: #F44336;
+}
+
+.ListarCotacoes-maisDetalhes:hover {
+    color: #BA000D;
+}

@@ -1,0 +1,22 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.Navbar-fundo {
+    background-color: #BA000D;
+    position: relative;
+	margin: 0px auto;
+}
+
+.Navbar-logo {
+    font-size: 36px;
+    text-align: center;
+}
+
+.Navbar-texto{
+    padding: 15px 0px;
+    color: #FFFFFF;
+}
+
+

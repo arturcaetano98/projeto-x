@@ -1,0 +1,49 @@
+/* Dark         #BA000D */
+/* Light        #FF7961 */
+/* Super Light	#EEE7E7	*/
+/* Common       #F44336 */
+
+.Apolice-formulario {
+    background-color:#EEE7E7;
+    width: 35%;
+    margin: 100px auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.Apolice-titulo {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+}
+
+.Apolice-informacao {
+    background-color: #FFFFFF;
+    border: 1px solid #768076;
+    padding: 40px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.Apolice-texto {
+    line-height: 25px;
+}
+
+.Apolice-enfase{
+    font-weight: bolder;
+    display: inline;
+}
+
+.Apolice-saudacoes {
+    text-align: right;
+    padding: 10px;
+}
+
+.Apolice-sair {
+    color: #F44336;
+}
+
+.Apolice-sair:hover {
+    color: #BA000D;
+}
